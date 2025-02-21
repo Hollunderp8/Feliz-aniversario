@@ -1,0 +1,14 @@
+{
+    "name": "feliz-aniversario",
+    "version": "1.0.0",
+    "description": "Feliz aniversario",
+    "main": "index.js",
+    "scripts": {
+      "start": "webpack"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "webpack": "^5.0.0",
+      "webpack-cli": "^4.0.0"
+    }
+  }
